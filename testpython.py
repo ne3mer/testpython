@@ -1,5 +1,5 @@
-a=input("please enter a number: ");
-b=input("please enter a number: ");
+a=input("please enter first number: ");
+b=input("please enter second number: ");
 c=int(a)+int(b)
 print(c)
 print(type(c))
